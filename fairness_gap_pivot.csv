@@ -1,0 +1,4 @@
+SensitiveFeature,Logistic Regression,Random Forest,XGBoost
+Age,0.168,0.074,0.086
+Income,0.052,0.028,0.02
+Sex,0.01,0.007,0.008
