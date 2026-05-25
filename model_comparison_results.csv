@@ -1,4 +1,0 @@
-Model,Accuracy,Macro_F1
-Logistic Regression,0.625,0.423
-Random Forest,0.752,0.445
-XGBoost,0.809,0.446
