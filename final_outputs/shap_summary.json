@@ -1,0 +1,20 @@
+{
+  "shap_model_used": "XGBoost",
+  "explanation_scope": "Tree-based model explanation for diabetes-class risk factors",
+  "target_class_explained": "Diabetes class = 2",
+  "sample_size": 300,
+  "artifact_status": "available",
+  "regeneration_note": "SHAP figures and feature-importance values are included with this package. To regenerate them, install the optional shap dependency and rerun the SHAP section of the notebook.",
+  "top_10_features": [
+    "GenHlth",
+    "HighBP",
+    "BMI",
+    "Age",
+    "HighChol",
+    "Income",
+    "HeartDiseaseorAttack",
+    "DiffWalk",
+    "MentHlth",
+    "NoDocbcCost"
+  ]
+}
